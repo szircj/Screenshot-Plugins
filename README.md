@@ -13,6 +13,7 @@ Necesita Descargar el zip
 
 Luego ir a la caperta `Configuration` y entrar `CommandConfiguration.json` 
 en las ultimas lineas añadir esto.     
+     
      ```
     },
     "GetssallCommand": {
@@ -22,8 +23,7 @@ en las ultimas lineas añadir esto.
       "AllowImpersonation": false,
       "SupportedGames": []
     },
-
-    ```
+```
 Luego entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `screenshot`
 
 2. Necesitas ahora entrar a la caperta llamada `root` de tu vps y pegar la carpeta que descargaste llamada `dirWatcher` pegarla todo
