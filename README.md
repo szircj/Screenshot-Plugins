@@ -36,7 +36,7 @@ Agregar en enlace discord si quieres ver la screenshot en Discord
 
 `.webhookUrl 
 
-],
+`],
     "copiar aqui el enlace del webhookurl de tu canal de discord"`
    
 
@@ -47,10 +47,17 @@ Con las Instalaciones realizada anteriormente se necesita Ejeucutar los folder y
 cd /root/dirWatcher
 ```
 Luego de Poner la Ruta de el Folder poner 
-```ls```
-
+```
+ls
+```
 luego Realiza un estado si esta Encendido 
-```pm2 status``` y luego de eso ```pm2 save``` 
+```
+pm2 status
+```
+ y luego de eso 
+ ```
+ pm2 save
+```
 
 Te debe parecer un ejemplo asi 
 
