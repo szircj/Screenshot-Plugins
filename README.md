@@ -46,7 +46,7 @@ Con las Instalaciones realizada anteriormente se necesita Ejeucutar en el putty 
 ```console
 cd /root/dirWatcher
 ```
-Luego de Poner la Ruta de el Folder poner 
+Luego Ejecutar y poner 
 ```
 ls
 ```
