@@ -13,8 +13,7 @@ Necesita Descargar el zip
 
 Luego ir a la caperta `Configuration` y entrar `CommandConfiguration.json` 
 en las ultimas lineas añadir esto.     
-   
-    ```
+     ```
     },
     "GetssallCommand": {
       "Name": "getssall",
