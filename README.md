@@ -34,7 +34,7 @@ Luego entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `scree
 ```
 Agregar en enlace discord si quieres ver la screenshot en Discord 
 
-4.webhookUrl 
+4. webhookUrl 
 
 `],
     "copiar aqui el enlace del webhookurl de tu canal de discord"`
