@@ -15,14 +15,14 @@ Luego ir a la caperta `Configuration` y entrar `CommandConfiguration.json`
 en las ultimas lineas añadir esto.     
      
 ```
-    },
+    
     "GetssallCommand": {
       "Name": "getssall",
       "Alias": "ssall",
       "MinimumPermission": "User",
       "AllowImpersonation": false,
       "SupportedGames": []
-    },
+    
 ```
 Luego entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `screenshot`
 
