@@ -63,10 +63,10 @@ Te debe parecer un ejemplo asi
 
 | ID  NAME   (MODE)     |   Descripcion         |                                    
 |-----------------------|-----------------------|
-| 0   watcher           |  online   0%  66.0mb  |
-| watcher               |   0%                  |    
-| fork                  |   66.0mb              |     
-|                       |                       |         
+| 0                     |     0%                |
+| watcher               |    0%                 |    
+| fork                  |   online              |     
+|  memory               |  66.0mb               |         
 
 y ultimo comando 
 ```pm2 start /patth/to/watcher.js```
