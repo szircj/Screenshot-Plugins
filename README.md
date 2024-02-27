@@ -41,7 +41,7 @@ Agregar en enlace discord si quieres ver la screenshot en Discord
    
 
 ## Launching  
-Con las Instalaciones realizada anteriormente se necesita Ejeucutar los folder y Ejecutarlo 
+Con las Instalaciones realizada anteriormente se necesita Ejeucutar en el putty los comando y Ejecutarlo 
 
 ```console
 cd /root/dirWatcher
