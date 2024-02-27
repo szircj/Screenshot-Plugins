@@ -61,12 +61,12 @@ pm2 status
 
 Te debe parecer un ejemplo asi 
 
-| ID | (NAME)  |   MODE       |  ↺  |   status | cpu | Memory |                                    |
-|--------------------------------------------------------------|
-| 0  | watcher |  fork        |   0  |  online  | 0% | 66.0mb |
-|    |         |              |      |          |    |        |
-|    |         |              |      |          |    |        |
-|    |         |              |      |          |    |        |
+| ID  (NAME)   MODE     |   Descripcion        |                                    
+|----------------------------------------------|
+| 0   watcher   fork    |  online   0%  66.0mb |
+|                       |                      |    
+|                       |                      |     
+|                       |                      |         
 
 y ultimo comando 
 ```pm2 start /patth/to/watcher.js```
