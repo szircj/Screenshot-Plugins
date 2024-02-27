@@ -14,7 +14,7 @@ Necesita Descargar el zip
 Luego ir a la caperta `Configuration` y entrar `CommandConfiguration.json` 
 en las ultimas lineas añadir esto.     
    
-    ```console
+    ```
     },
     "GetssallCommand": {
       "Name": "getssall",
@@ -49,10 +49,10 @@ Con las Instalaciones realizada anteriormente se necesita Ejeucutar los folder y
 cd /root/dirWatcher
 ```
 Luego de Poner la Ruta de el Folder poner 
-`ls`
+```ls```
 
 luego Realiza un estado si esta Encendido 
-`pm2 status` y luego de eso `pm2 save` 
+```pm2 status``` y luego de eso ```pm2 save``` 
 
 Te debe parecer un ejemplo asi 
 
@@ -64,7 +64,7 @@ Te debe parecer un ejemplo asi
 |    |         |              |      |          |    |        |
 
 y ultimo comando 
-`pm2 start /patth/to/watcher.js`
+```pm2 start /patth/to/watcher.js```
 
 El GetScreenshot.js ya deberia estar Funcionando y corriendo **GetScreenshot.js**
 
