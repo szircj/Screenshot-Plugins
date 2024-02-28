@@ -7,7 +7,7 @@ Primero necesitas Instalar pm2 en tu servidor es muy importante para que funcion
 
 Luego necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
 Documentacion Guia 
-(https://www.hostinger.com/tutorials/how-to-install-node-ubuntu?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=1011097&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNW6vR4XeH-qIcriGDnOEiHOO63dhnubVrf5A8nmN9GvtRdg0tlbSwBoCaGIQAvD_BwE)
+(https://www.hostinger.com/tutorials/how-to-install-node-ubuntu)
 
 
 
