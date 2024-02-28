@@ -1,5 +1,12 @@
 ## Screenshot Plugins Unbutun 22.04
 
+## Importante
+Primero necesitas Instalar pm2 en tu servidor es muy importante para que funcione ahi dejare la documentacion de Instalacion 
+
+(https://pm2.io/docs/runtime/guide/installation/)
+
+
+
 El Plugins de la Screenshot Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
 Fue Creado Para IW4admin soportable para CoD4.
 
