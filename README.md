@@ -83,8 +83,15 @@ Te debe parecer un ejemplo asi
 | fork                  |   online              |     
 |  memory               |  40.0mb               |         
 
-y ultimo comando 
-```pm2 start /patth/to/watcher.js```
+y ultimo comandos para verificar si esta Funcionando "debe Reflejar un mensaje en el cuadrado que diga que esta `ONLINE`
+
+```
+pm2 status
+```
+y luego 
+```
+pm2 save
+```
 
 El GetScreenshot.js ya deberia estar Funcionando y corriendo **GetScreenshot.js**
 
