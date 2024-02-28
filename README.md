@@ -5,7 +5,7 @@ Fue Creado Para IW4admin soportable para CoD4.
 
 ## Requirimiento
 Necesita Descargar el zip 
-- [Screenshot-Plugins.git](https://github.com/szircj/Screenshot-Plugins.git) 
+- [Screenshot-Plugins.git](https://github.com/szircj/Screenshot-Plugins/archive/refs/heads/master.zip) 
 
 ## Instalacion 
 1.Con el Archivo descargado Necesitas Entrar a la carpeta de tu servidor o vps de linux entrar a la raiz de tu  `Iw4admin` folder y entrar a la Carpeta llamada
