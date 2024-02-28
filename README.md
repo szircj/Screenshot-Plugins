@@ -50,6 +50,7 @@ Agregar en enlace discord si quieres ver la screenshot en Discord
 `],
     "copiar aqui el enlace del webhookurl de tu canal de discord"`
    
+luego de eso necesitas reiniciar el IW4admin.
 
 ## Launching  
 Con las Instalaciones realizada anteriormente se necesita Ejeucutar en el putty los comando y Ejecutarlo 
