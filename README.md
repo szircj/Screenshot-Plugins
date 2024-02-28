@@ -5,6 +5,10 @@ Primero necesitas Instalar pm2 en tu servidor es muy importante para que funcion
 
 (https://pm2.io/docs/runtime/guide/installation/)
 
+Luego necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
+Documentacion Guia 
+(https://www.hostinger.com/tutorials/how-to-install-node-ubuntu?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=1011097&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNW6vR4XeH-qIcriGDnOEiHOO63dhnubVrf5A8nmN9GvtRdg0tlbSwBoCaGIQAvD_BwE)
+
 
 
 El Plugins de la Screenshot Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
