@@ -37,7 +37,7 @@ Luego entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `scree
 
 3. Necesitas Editar la carpeta llamada `config.json` y poner la ruta donde pusiste la carpeta screenshot en la raiz de tu Juego mostrare un ejemplo
  ``` "ssPaths": [
-        "/home/ogp_agent/kfc_promod/screenshots",
+        "/home/ogp_agent/kfc_promod/screenshots"
 ```
 Agregar en enlace discord si quieres ver la screenshot en Discord 
 
