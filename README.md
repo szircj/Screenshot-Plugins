@@ -55,25 +55,29 @@ cd /root/dirWatcher
 ```
 Luego Ejecutar y poner 
 ```
-ls
+npm install
 ```
-luego Realiza un estado si esta Encendido 
+luego ejecutar y poner 
 ```
-pm2 status
+npm install pm2@latest -g
 ```
- y luego de eso 
+ y luego ejecutar y poner 
  ```
- pm2 save
+ pm2 start watcher.js
 ```
+y luego ejecutar y poner 
+ ```
+pm2 save
+ ```
 
 Te debe parecer un ejemplo asi 
 
 | ID  NAME   (MODE)     |   Descripcion         |                                    
 |-----------------------|-----------------------|
-| 0                     |     0%                |
+| cpu                   |     0%                |
 | watcher               |    0%                 |    
 | fork                  |   online              |     
-|  memory               |  66.0mb               |         
+|  memory               |  40.0mb               |         
 
 y ultimo comando 
 ```pm2 start /patth/to/watcher.js```
