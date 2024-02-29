@@ -36,7 +36,10 @@ en las ultimas lineas añadir esto.
       "SupportedGames": []
     
 ```
-Luego entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `screenshot`
+
+Luego Reinicia tu IW4MAdmin sigue con el siguiente paso.
+
+Entrar a la Base de tu juego CoD4 o CoD4x Crear una Carpeta llamada `screenshot`
 
 2. Necesitas ahora entrar a la caperta llamada `root` de tu vps y pegar la carpeta que descargaste llamada `dirWatcher` pegarla todo
 
