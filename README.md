@@ -2,11 +2,7 @@
 Unbutun 22.04
 
 ## Importante
-Primero necesitas Instalar pm2 en tu servidor es muy importante para que funcione ahi dejare la documentacion de Instalacion 
-
-(https://pm2.io/docs/runtime/guide/installation)
-
-Luego necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
+Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
 Documentacion Guia 
 (https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
 
