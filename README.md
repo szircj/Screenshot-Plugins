@@ -13,7 +13,8 @@ Documentacion Guia
 
 
 El Plugins de la Screenshot Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
-Fue Creado Para IW4admin soportable para CoD4.
+Fue Creado Para CoD4 y Cod4x 
+soporta la herramienta IW4MADMIN.
 
 ## Requirimiento
 Necesita Descargar el zip 
