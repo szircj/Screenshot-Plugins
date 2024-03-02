@@ -21,8 +21,21 @@ Necesita Descargar el zip
 `Plugins` y añadir el archivo Javascript descargado `GetScreenshot.js`
 
 Luego ir a la caperta `Configuration` y entrar `CommandConfiguration.json` 
-en las ultimas lineas añadir esto.     
-     
+en las penultima lineas añadir esto.     
+
+```
+ "GetssCommand": {
+      "Name": "getss",
+      "Alias": "ss",
+      "MinimumPermission": "User",
+      "AllowImpersonation": false,
+      "SupportedGames": []
+    
+```
+
+
+
+luego de bajo este siguiente codigo
 ```
     
     "GetssallCommand": {
