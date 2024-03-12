@@ -1,10 +1,11 @@
+## [English Documentation](https://github.com/szircj/Screenshot-Plugins/edit/master/README.md##Screenshot-Plugins-Cod4x)
+
 ## Screenshot Plugins Cod4x 
 Unbutun 22.04
 
 ## Importante
 Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
-Documentacion Guia 
-(https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+- [Documentacion Guia](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
 
 
 
@@ -116,3 +117,123 @@ El GetScreenshot.js ya deberia estar Funcionando y corriendo **GetScreenshot.js*
 ## Help
 * No dudes en unirte al **KFC Community** [Discord](https://discord.gg/DeZkVyrrrr)  
 Si se encuentra con un problema, error o solicitud de función, publique un [problema](https://github.com/szircj/Screenshot-Plugins/issues)
+
+
+
+
+
+
+
+
+
+
+## Screenshot Plugins Cod4x
+Unbutun 22.04
+
+## Important
+You need to install NodeJS v18-v (VERY IMPORTANT TO INSTALL AND HAVE VERSION V18)
+- [Documentation Guide](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+
+The Screenshot Plugin works as a tool to view the player's screen in case they are using Wallhack, game modifications, etc. It was created for CoD4 and Cod4x supports the IW4MADMIN tool.
+
+## Requirements
+You need to download the zip file
+- [Screenshot-Plugins.git](https://github.com/szircj/Screenshot-Plugins/archive/refs/heads/master.zip)
+
+
+## Installation
+With the downloaded file, you need to enter the folder of your server or Linux VPS, go to the root of your `IW4admin` folder, and enter the folder called `Plugins`. Then, add the downloaded JavaScript file `GetScreenshot.js`.
+
+Then, go to the `Configuration` folder and enter `CommandConfiguration.json`. Add this to the second-to-last lines:
+
+```
+ "GetssCommand": {
+      "Name": "getss",
+      "Alias": "ss",
+      "MinimumPermission": "User",
+      "AllowImpersonation": false,
+      "SupportedGames": []
+    
+```
+
+Immediately below this code:
+
+```
+    
+    "GetssallCommand": {
+      "Name": "getssall",
+      "Alias": "ssall",
+      "MinimumPermission": "User",
+      "AllowImpersonation": false,
+      "SupportedGames": []
+    
+```
+
+Then, restart your IW4MAdmin and proceed to the next step.
+
+Enter the root of your CoD4 or CoD4x game, create a folder called `screenshot`.
+
+Now, you need to enter the root folder of your VPS and paste the downloaded `dirWatcher` folder.
+
+Edit the folder named `config.json` and put the path where you placed the screenshot folder at the root of your game. Here's an example:
+
+  `
+ "ssPaths": [
+        "/home/ogp_agent/kfc_promod/screenshots"
+`
+
+Add a Discord link if you want to view the screenshot on Discord:
+
+5. webhookUrl 
+
+`],
+    "copiar aqui el enlace del webhookurl de tu canal de discord"`
+
+After that, you need to restart IW4admin.
+
+## Launching
+With the installations done previously, you need to run the commands in Putty and execute it:
+
+```console
+cd /root/dirWatcher
+```
+Then, execute and enter:
+```
+npm install
+```
+Then, execute and enter:
+```
+npm install pm2@latest -g
+```
+Then, execute and enter:
+ ```
+ pm2 start watcher.js
+```
+Then, execute and enter:
+ ```
+pm2 save
+ ```
+You should see an example like this:
+
+| ID  NAME   (MODE)     |   Descripcion         |                                    
+|-----------------------|-----------------------|
+| cpu                   |     0%                |
+| watcher               |    0%                 |    
+| fork                  |   online              |     
+|  memory               |  40.0mb               | 
+
+And the last commands to verify if it's working: "It should reflect a message in the box that says it's `ONLINE`.
+
+```
+pm2 status
+```
+And then
+```
+pm2 save
+```
+
+The GetScreenshot.js should already be working and running GetScreenshot.js.
+
+##Help
+*Feel free to join the **KFC Community** [Discord](https://discord.gg/DeZkVyrrrr)
+If you encounter a problem, error, or feature request, please post an [issue](https://github.com/szircj/Screenshot-Plugins/issues).
