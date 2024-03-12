@@ -1,4 +1,4 @@
-## [English Documentation](https://github.com/szircj/Screenshot-Plugins/edit/master/README.md##Screenshot-Plugins-Cod4x)
+## [English Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md##Screenshot-Plugins-Cod4x)
 
 ## Screenshot Plugins Cod4x 
 Unbutun 22.04
