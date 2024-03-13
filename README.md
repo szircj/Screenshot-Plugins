@@ -1,8 +1,8 @@
 ## [English Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md#ENGLISH-DOCUMENTATION-1) 
 ## [Spanish Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md#Importante-DOCUMENTATION-1)
 
-## Screenshot Plugins Cod4x 
-Unbutun 
+## Screenshot Plugins Cod4x Linux
+
 
 ## Importante
 Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
@@ -128,7 +128,7 @@ Si se encuentra con un problema, error o solicitud de función, publique un [pro
 
 ## ENGLISH DOCUMENTATION
 
-## Screenshot Plugins Cod4x
+## Screenshot Plugins Cod4x Linux
 Unbutun 
 
 ## Important
