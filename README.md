@@ -2,7 +2,7 @@
 ## [Spanish Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md#Importante-DOCUMENTATION-1)
 
 ## Screenshot Plugins Cod4x 
-Unbutun 22.04
+Unbutun 
 
 ## Importante
 Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
@@ -129,7 +129,7 @@ Si se encuentra con un problema, error o solicitud de función, publique un [pro
 ## ENGLISH DOCUMENTATION
 
 ## Screenshot Plugins Cod4x
-Unbutun 22.04
+Unbutun 
 
 ## Important
 You need to install NodeJS v18-v (VERY IMPORTANT TO INSTALL AND HAVE VERSION V18)
