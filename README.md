@@ -71,7 +71,8 @@ Agregar en enlace discord si quieres ver la screenshot en Discord
    
 luego de eso necesitas reiniciar el IW4admin.
 
-## Launching
+## Ejecute los siguientes comandos en un cliente SSH (PuTTY):
+
 Con las Instalaciones realizada anteriormente se necesita Ejeucutar en el putty los comando y Ejecutarlo 
 
 ```console
@@ -142,7 +143,7 @@ You need to download the zip file
 - [Screenshot-Plugins.git](https://github.com/szircj/Screenshot-Plugins/archive/refs/heads/master.zip)
 
 
-## Execute the following commands on an SSH Client (PuTTY):
+## Install 
 With the downloaded file, you need to enter the folder of your server or Linux VPS, go to the root of your `IW4admin` folder, and enter the folder called `Plugins`. Then, add the downloaded JavaScript file `GetScreenshot.js`.
 
 Then, go to the `Configuration` folder and enter `CommandConfiguration.json`. Add this to the second-to-last lines:
@@ -190,9 +191,7 @@ Add a Discord link if you want to view the screenshot on Discord:
 `],
     "copiar aqui el enlace del webhookurl de tu canal de discord"`
 
-After that, you need to restart IW4admin.
-
-## Launching
+## Execute the following commands on an SSH Client (PuTTY):
 With the installations done previously, you need to run the commands in Putty and execute it:
 
 ```console
