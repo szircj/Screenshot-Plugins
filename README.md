@@ -129,7 +129,7 @@ Si se encuentra con un problema, error o solicitud de función, publique un [pro
 ## ENGLISH DOCUMENTATION
 
 ## Screenshot Plugins Cod4x Linux
-Unbutun 
+ 
 
 ## Important
 You need to install NodeJS v18-v (VERY IMPORTANT TO INSTALL AND HAVE VERSION V18)
