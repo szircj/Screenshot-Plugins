@@ -235,5 +235,5 @@ pm2 save
 The GetScreenshot.js should already be working and running GetScreenshot.js.
 
 ## Help
-* Feel free to join the **KFC Community** [Discord](https://discord.gg/DeZkVyrrrr)
+* Feel free to join the **KFC Community** [Discord](https://discord.gg/Q4bvTuWdg5)
 If you encounter a problem, error, or feature request, please post an [issue](https://github.com/szircj/Screenshot-Plugins/issues).
