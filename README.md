@@ -137,9 +137,16 @@ Si se encuentra con un problema, error o solicitud de función, publique un [pro
 ## Screenshot Plugins Cod4x Linux
  
 
-## Important
-You need to install NodeJS v18-v (VERY IMPORTANT TO INSTALL AND HAVE VERSION V18)
-- [Documentation Guide](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+## Important - You need to Install NodeJS v18-v
+  ```
+  sh
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&&
+sudo apt-get install -y nodejs
+```
+then run to see the version
+```
+node -v
+```
 
 The Screenshot Plugin works as a tool to view the player's screen in case they are using Wallhack, game modifications, etc. It was created for CoD4 and Cod4x supports the IW4MADMIN tool.
 
