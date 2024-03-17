@@ -5,15 +5,18 @@
 
 
 ## Importante
-Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
+
+- Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
 - 
   ```
   sh
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 ```
-
-
+luego ejecutar para ver la versión
+```
+node -v
+```
 
 El Plugins de la Screenshot Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
 Fue Creado Para CoD4 y Cod4x 
