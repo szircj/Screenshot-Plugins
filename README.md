@@ -6,13 +6,12 @@
 
 ## Importante
 Necesitas Instalar NodeJS v18-v (muy IMPORTANTE INSTALARLO Y TENER LA VERSION V18)
-- [Guia]
+- 
   ```
   sh
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 ```
-
 
 
 
