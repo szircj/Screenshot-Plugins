@@ -1,8 +1,7 @@
 ## [English Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md#ENGLISH-DOCUMENTATION-1) 
 ## [Spanish Documentation](https://github.com/szircj/Screenshot-Plugins/blob/master/README.md#Importante-DOCUMENTATION-1)
 
-## Screenshot Plugins Cod4x Linux
-
+## Screenshot Plugins Cod4x Linux[![CodeFactor](https://www.codefactor.io/repository/github/szircj/screenshot-plugins/badge)](https://www.codefactor.io/repository/github/szircj/screenshot-plugins)
 
 ## Importante - Necesitas Instalar NodeJS v18-v
   ```
