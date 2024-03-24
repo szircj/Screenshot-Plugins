@@ -3,6 +3,7 @@ const init = (registerNotify, serviceResolver, config) => {
     return plugin;
 };
 
+
 const plugin = {
     author: 'szir',
     version: '1.0',
