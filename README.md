@@ -137,6 +137,7 @@ Si se encuentra con un problema, error o solicitud de función, publique un [pro
 
 ## Screenshot Plugins Cod4x Linux
  [![CodeFactor](https://www.codefactor.io/repository/github/szircj/screenshot-plugins/badge)](https://www.codefactor.io/repository/github/szircj/screenshot-plugins)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Important - You need to Install NodeJS v18-v
   ```
