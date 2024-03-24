@@ -16,7 +16,7 @@ node -v
 ```
 
 El Plugins de la Screenshot Funciona como Objetivo ver la pantalla del jugador por si esta utilizando Wallhack , modificaciones en el juego ect.
-Fue Creado Para CoD4 y Cod4x 
+Fue Creado Para Cod4x 
 soporta la herramienta IW4MADMIN.
 
 ## Requirimiento
@@ -148,7 +148,7 @@ then run to see the version
 node -v
 ```
 
-The Screenshot Plugin works as a tool to view the player's screen in case they are using Wallhack, game modifications, etc. It was created for CoD4 and Cod4x supports the IW4MADMIN tool.
+The Screenshot Plugin works as a tool to view the player's screen in case they are using Wallhack, game modifications, etc. It was created for Cod4x supports the IW4MADMIN tool.
 
 ## Requirements
 You need to download the zip file
