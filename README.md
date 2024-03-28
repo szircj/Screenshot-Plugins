@@ -5,6 +5,20 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/szircj/screenshot-plugins/badge)](https://www.codefactor.io/repository/github/szircj/screenshot-plugins)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+___
+
+### Cómo funciona
+
+<div align="center">
+  <br />
+  <p>
+    <img src="https://i.gyazo.com/c20f151deb79150f776ab893fd62b13c.jpg" />
+  </p>
+</div>
+
+___
+
+
 ## Importante - Necesitas Instalar NodeJS v18-v
   ```
   sh
