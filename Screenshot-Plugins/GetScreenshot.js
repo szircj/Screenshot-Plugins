@@ -5,7 +5,7 @@ const init = (registerNotify, serviceResolver, config) => {
 
 const plugin = {
     author: 'szir',
-    version: '1.3',
+    version: '1.4',
     name: 'Screenshot plugin',
     enabled: true,
     manager: null,
